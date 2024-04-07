@@ -1,22 +1,51 @@
-git submodule add https://github.com/Josue-Quevedo/Hakaton Hakaton
-git submodule add https://github.com/Gancito898/Hackaton_GreenTech.git Hackaton_GreenTech
-git submodule add https://github.com/akari2431/FireShield FireShield
-git submodule add https://github.com/LeislaCV/healingtheearth_final healingtheearth_final
-git submodule add https://github.com/Mini-Valeria/Hackaton Mini-Valeria-Hackaton
-git submodule add https://github.com/Jorge-Abraham-Fraide/Smart-Honey-Web-App Smart-Honey-Web-App
-git submodule add https://github.com/JAIRMINATOR/VitalCow VitalCow
-git submodule add https://github.com/AlbieriK/wavecode.git wavecode
-git submodule add https://github.com/Ivanroma12u3734/COWTRACK-MONDATA- COWTRACK-MONDATA
-git submodule add https://github.com/vicklm/AgroFuturo AgroFuturo
-git submodule add https://github.com/utm21040115/Methane-X.git Methane-X
-git submodule add https://github.com/eduardoCorpus7193/opuntech-azle-hackathon.git opuntech-azle-hackathon
-git submodule add https://github.com/Juander161/ICP-CredencialesReact ICP-CredencialesReact
-git submodule add https://github.com/Sigill2003/AgroCF.git AgroCF
-git submodule add https://github.com/Angel-crypt/hackathonRutaGanado hackathonRutaGanado
-git submodule add https://github.com/GaboH4CK3D/TerraBoost.git TerraBoost
-git submodule add https://github.com/CesarAlexisRodriguez/repo CesarAlexisRodriguez-repo
-git submodule add https://github.com/Erikyisus09/TechnoQuarks.git TechnoQuarks
-git submodule add https://github.com/Alex-Elleon/Agri-Track Agri-Track
-git submodule add https://github.com/Geo290/Inventamovil Inventamovil
-git submodule add https://github.com/CharlyNavarro/ezfarm ezfarm
-git submodule add https://github.com/Ghumana/Sinergia_Agropecuaria Sinergia_Agropecuaria
+[submodule "Agricultura/FireShield"]
+	path = Agricultura/FireShield
+	url = https://github.com/akari2431/FireShield
+[submodule "Agricultura/Hakaton"]
+	path = Agricultura/Hakaton
+	url = https://github.com/Josue-Quevedo/Hakaton
+[submodule "Agricultura/Hackaton_GreenTech"]
+	path = Agricultura/Hackaton_GreenTech
+	url = https://github.com/Gancito898/Hackaton_GreenTech.git
+[submodule "Agricultura/healingtheearth_final"]
+	path = Agricultura/healingtheearth_final
+	url = https://github.com/LeislaCV/healingtheearth_final
+[submodule "Agronegocio/ezfarm"]
+	path = Agronegocio/ezfarm
+	url = https://github.com/CharlyNavarro/ezfarm
+[submodule "Agronegocio/Inventamovil"]
+	path = Agronegocio/Inventamovil
+	url = https://github.com/Geo290/Inventamovil
+[submodule "Agronegocio/hackathonRutaGanado"]
+	path = Agronegocio/hackathonRutaGanado
+	url = https://github.com/Angel-crypt/hackathonRutaGanado
+[submodule "Agronegocio/repo"]
+	path = Agronegocio/repo
+	url = https://github.com/CesarAlexisRodriguez/repo
+[submodule "Agronegocio/TechnoQuarks"]
+	path = Agronegocio/TechnoQuarks
+	url = https://github.com/Erikyisus09/TechnoQuarks.git
+[submodule "Ganaderia/AgroFuturo"]
+	path = Ganaderia/AgroFuturo
+	url = https://github.com/vicklm/AgroFuturo
+[submodule "Ganaderia/COWTRACK-MONDATA-"]
+	path = Ganaderia/COWTRACK-MONDATA-
+	url = https://github.com/Ivanroma12u3734/COWTRACK-MONDATA-
+[submodule "Ganaderia/ICP-CredencialesReact"]
+	path = Ganaderia/ICP-CredencialesReact
+	url = https://github.com/Juander161/ICP-CredencialesReact
+[submodule "Ganaderia/opuntech-azle-hackathon"]
+	path = Ganaderia/opuntech-azle-hackathon
+	url = https://github.com/eduardoCorpus7193/opuntech-azle-hackathon.git
+[submodule "Ganaderia/Smart-Honey-Web-App"]
+	path = Ganaderia/Smart-Honey-Web-App
+	url = https://github.com/Jorge-Abraham-Fraide/Smart-Honey-Web-App
+[submodule "Ganaderia/VitalCow"]
+	path = Ganaderia/VitalCow
+	url = https://github.com/JAIRMINATOR/VitalCow
+[submodule "Ganaderia/wavecode"]
+	path = Ganaderia/wavecode
+	url = https://github.com/AlbieriK/wavecode.git
+[submodule "Agricultura/Hackaton"]
+	path = Agricultura/Hackaton
+	url = https://github.com/Mini-Valeria/Hackaton
